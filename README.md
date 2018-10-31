@@ -3,12 +3,12 @@
 ------------------------------------------------------------------------
 CUFID_align finds the pairwise alignment (one-to-one mapping) of biological networks
 
-------------------------------Release Note------------------------------
-	10.31.2018
+Release Note:
+    10.31.2018
 	1. A bug fixed in input networks read code
 	2. Optimizing network read code  
 
---------------------------Matlab Implementaion--------------------------
+Matlab Implementaion:
  Input:
        Net_id_list  : List of the name for the PPI networks
        input_folder : File path for the input data
